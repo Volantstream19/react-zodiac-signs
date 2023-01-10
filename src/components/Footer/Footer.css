@@ -6,9 +6,8 @@ footer {
   position: fixed;
   width: 100%;
   bottom: 0;
-  background-color: blue;
+  background-color: rgb(138, 130, 112);
   font-size: 3rem;
-  color: white;
-  text-shadow: 5px 6px 3px #000000;
+  color: rgb(0, 0, 0);
   opacity: 0.7;
 }
